@@ -1,0 +1,1265 @@
+{
+   "templateName": "TPRatio",
+   "columns": [
+       {
+           "column": 1,
+           "name": "B",
+           "width": 32.15,
+           "address": "$B$1:$B$40",
+           "style": "LargeCell"
+       },
+       {
+           "column": 2,
+           "name": "C",
+           "width": 34.01,
+           "address": "$C$1:$C$40",
+           "style": "LargeCell"
+       }
+   ],
+   "rows": [
+       {
+           "row": 0,
+           "cells": [
+               {
+                   "value": "Ratios Detail",
+                   "address": "B1",
+                   "style": "HeaderCell",
+                   "options": null,
+                   "colSpan": 2,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 1,
+           "cells": [
+               {
+                   "value": "Country",
+                   "address": "B2",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "United Kingdom",
+                   "address": "C2",
+                   "style": "CountryCell",
+                   "options": [
+                       "Abkhazia",
+                       "Afghanistan",
+                       "Åland Isl",
+                       "Albania",
+                       "Algeria",
+                       "American Samoa",
+                       "Andorra",
+                       "Angola",
+                       "Anguilla",
+                       "Antarctica",
+                       "Antigua",
+                       "Argentina",
+                       "Armenia",
+                       "Aruba",
+                       "Australia",
+                       "Austria",
+                       "Azerbaijan",
+                       "B Virgin Isl",
+                       "Bahamas",
+                       "Bahrain",
+                       "Bangladesh",
+                       "Barbados",
+                       "Belarus",
+                       "Belgium",
+                       "Belize",
+                       "Benin",
+                       "Bermuda",
+                       "BES Island",
+                       "Bhutan",
+                       "Bolivia",
+                       "Bosnia Herz",
+                       "Botswana",
+                       "Bouvet Isl",
+                       "Brazil",
+                       "British Indian Ocean",
+                       "Brunei",
+                       "Bulgaria",
+                       "Burkina Faso",
+                       "Burundi",
+                       "Cambodia",
+                       "Cameroon",
+                       "Canada",
+                       "Cape Verde",
+                       "Cayman Islands",
+                       "Chad",
+                       "Chile",
+                       "China",
+                       "Christmas Isl",
+                       "Cntrl African",
+                       "Cocos (keeling) Isl",
+                       "Colombia",
+                       "Comoros",
+                       "Congo",
+                       "Congo, DRC",
+                       "Cook Isl",
+                       "Costa Rica",
+                       "Croatia",
+                       "Cuba",
+                       "Curacao",
+                       "Cyprus",
+                       "Czech Rep",
+                       "Denmark",
+                       "Djibouti",
+                       "Dominica",
+                       "Dominican Rep",
+                       "East Timor",
+                       "Ecuador",
+                       "Egypt",
+                       "El Salvador",
+                       "Eq. Guinea",
+                       "Eritrea",
+                       "Estonia",
+                       "Ethiopia",
+                       "Falkland Isl",
+                       "Faroe Isl",
+                       "Fiji",
+                       "Finland",
+                       "Fr. Guiana",
+                       "Fr. Polynesia",
+                       "Fr. South Ter.",
+                       "France",
+                       "Gabon",
+                       "Gambia",
+                       "Georgia",
+                       "Germany",
+                       "Ghana",
+                       "Gibraltar",
+                       "Greece",
+                       "Greenland",
+                       "Grenada",
+                       "Guadeloupe",
+                       "Guam",
+                       "Guatemala",
+                       "Guernsey",
+                       "Guinea",
+                       "Guinea-bissau",
+                       "Guyana",
+                       "Haiti",
+                       "Heard Isl",
+                       "Holy See",
+                       "Honduras",
+                       "Hong Kong",
+                       "Hungary",
+                       "Iceland",
+                       "India",
+                       "Indonesia",
+                       "Iran",
+                       "Iraq",
+                       "Ireland",
+                       "Isle Of Man",
+                       "Israel",
+                       "Italy",
+                       "Ivory Coast",
+                       "Jamaica",
+                       "Japan",
+                       "Jersey",
+                       "Jordan",
+                       "Kazakhstan",
+                       "Kenya",
+                       "Kiribati",
+                       "Korea, DPR",
+                       "Korea, Rep of",
+                       "Kosovo",
+                       "Kuwait",
+                       "Kyrgyzstan",
+                       "Laos",
+                       "Latvia",
+                       "Lebanon",
+                       "Lesotho",
+                       "Liberia",
+                       "Libya",
+                       "Liechtenstein",
+                       "Lithuania",
+                       "Luxembourg",
+                       "Macao",
+                       "Macedonia",
+                       "Madagascar",
+                       "Malawi",
+                       "Malaysia",
+                       "Maldives",
+                       "Mali",
+                       "Malta",
+                       "Marshall Isl",
+                       "Martinique",
+                       "Mauritania",
+                       "Mauritius",
+                       "Mayotte",
+                       "Mexico",
+                       "Micronesia",
+                       "Moldova",
+                       "Monaco",
+                       "Mongolia",
+                       "Montenegro",
+                       "Montserrat",
+                       "Morocco",
+                       "Mozambique",
+                       "Myanmar",
+                       "N. Mariana Isl",
+                       "Namibia",
+                       "Nauru",
+                       "Nepal",
+                       "Neth Antilles",
+                       "Netherlands",
+                       "New Caledonia",
+                       "New Zealand",
+                       "Nicaragua",
+                       "Niger",
+                       "Nigeria",
+                       "Niue",
+                       "Norfolk Isl",
+                       "Norway",
+                       "Oman",
+                       "Pakistan",
+                       "Palau",
+                       "Palestinian Territor",
+                       "Panama",
+                       "Papua N Guinea",
+                       "Paraguay",
+                       "Peru",
+                       "Philippines",
+                       "Pitcairn",
+                       "Poland",
+                       "Portugal",
+                       "Puerto Rico",
+                       "Qatar",
+                       "Réunion",
+                       "Romania",
+                       "Russia",
+                       "Rwanda",
+                       "Saint Barthélemy",
+                       "Saint Helena",
+                       "Saint Kitts and Nevi",
+                       "Saint Lucia",
+                       "Saint Martin",
+                       "Saint Pierre and Miq",
+                       "Samoa",
+                       "San Marino",
+                       "Sao Tome",
+                       "Saudi Arabia",
+                       "Senegal",
+                       "Serbia",
+                       "Seychelles",
+                       "Sierra Leone",
+                       "Singapore",
+                       "Sint Maarten",
+                       "Slovak Republic",
+                       "Slovenia",
+                       "Solomon Isl",
+                       "Somalia",
+                       "South Africa",
+                       "South Georgia and Th",
+                       "South Sudan",
+                       "Spain",
+                       "Sri Lanka",
+                       "St. Vincent",
+                       "Sudan",
+                       "Suriname",
+                       "Svalbard",
+                       "Swaziland",
+                       "Sweden",
+                       "Switzerland",
+                       "Syria",
+                       "Taiwan",
+                       "Tajikistan",
+                       "Tanzania",
+                       "Thailand",
+                       "Timor-leste",
+                       "Togo",
+                       "Tokelau",
+                       "Tonga",
+                       "Trin & Tobago",
+                       "Tunisia",
+                       "Turkey",
+                       "Turkmenistan",
+                       "Turks Caics",
+                       "Tuvalu",
+                       "Uganda",
+                       "Ukraine",
+                       "United Kingdom",
+                       "United States",
+                       "United States Minor",
+                       "Untd A Emirates",
+                       "Uruguay",
+                       "Uzbekistan",
+                       "Vanuatu",
+                       "Venezuela",
+                       "Vietnam",
+                       "Virgin Isl",
+                       "Wallis",
+                       "Western Sahara",
+                       "Yemen",
+                       "Zambia",
+                       "Zimbabwe"
+                   ],
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 2,
+           "cells": [
+               {
+                   "value": "Current Transfer Pricing Method",
+                   "address": "B3",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "ROE",
+                   "address": "C3",
+                   "style": "InputOptionCell",
+                   "options": [
+                       "Cost Plus",
+                       "Net Cost Plus",
+                       "Gross Margin",
+                       "Return on Sales (Operating Margin)",
+                       "Berry Ratio",
+                       "ROA",
+                       "ROE",
+                       "Return on Capital Employed (ROCE)"
+                   ],
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 3,
+           "cells": [
+               {
+                   "value": "Target Ratio",
+                   "address": "B4",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "56.16%",
+                   "address": "C4",
+                   "style": "InputPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 4,
+           "cells": [
+               {
+                   "value": "",
+                   "address": "B5",
+                   "style": "EmptyCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "",
+                   "address": "C5",
+                   "style": "EmptyCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 5,
+           "cells": [
+               {
+                   "value": "Accounts",
+                   "address": "B6",
+                   "style": "HeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "Amount",
+                   "address": "C6",
+                   "style": "HeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 6,
+           "cells": [
+               {
+                   "value": "Average Operating Assets",
+                   "address": "B7",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "10,888,777.00",
+                   "address": "C7",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 7,
+           "cells": [
+               {
+                   "value": "Average Capital Employed",
+                   "address": "B8",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "72,000,000.00",
+                   "address": "C8",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 8,
+           "cells": [
+               {
+                   "value": "Equity",
+                   "address": "B9",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "28,000,000.00",
+                   "address": "C9",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 9,
+           "cells": [
+               {
+                   "value": "Net Sales",
+                   "address": "B10",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "18,500,000.00",
+                   "address": "C10",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 10,
+           "cells": [
+               {
+                   "value": "Royalty Income",
+                   "address": "B11",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "650,000.00",
+                   "address": "C11",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 11,
+           "cells": [
+               {
+                   "value": "Operating Revenue",
+                   "address": "B12",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "19,150,000.00",
+                   "address": "C12",
+                   "style": "ReadOnlyFormulaCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 12,
+           "cells": [
+               {
+                   "value": "Cost of Goods Sold",
+                   "address": "B13",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "5,200,000.00",
+                   "address": "C13",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 13,
+           "cells": [
+               {
+                   "value": "Gross Profit",
+                   "address": "B14",
+                   "style": "SubHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "13,950,000.00",
+                   "address": "C14",
+                   "style": "ReadOnlyFormulaCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 14,
+           "cells": [
+               {
+                   "value": "Other Operating Expenses",
+                   "address": "B15",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "3,999,000.00",
+                   "address": "C15",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 15,
+           "cells": [
+               {
+                   "value": "Royalty Expense",
+                   "address": "B16",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "333,333.33",
+                   "address": "C16",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 16,
+           "cells": [
+               {
+                   "value": "SG&A",
+                   "address": "B17",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "6,700,000.00",
+                   "address": "C17",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 17,
+           "cells": [
+               {
+                   "value": "Depreciation / Amortization",
+                   "address": "B18",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "850,000.00",
+                   "address": "C18",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 18,
+           "cells": [
+               {
+                   "value": "Operating Profit (EBIT)",
+                   "address": "B19",
+                   "style": "SubHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "2,150,000.00",
+                   "address": "C19",
+                   "style": "ReadOnlyFormulaCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 19,
+           "cells": [
+               {
+                   "value": "Interest Income",
+                   "address": "B20",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "2,850,000.00",
+                   "address": "C20",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 20,
+           "cells": [
+               {
+                   "value": "Interest Expense",
+                   "address": "B21",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "650,000.00",
+                   "address": "C21",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 21,
+           "cells": [
+               {
+                   "value": "Net Profit",
+                   "address": "B22",
+                   "style": "SubHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "3,350,000.00",
+                   "address": "C22",
+                   "style": "ReadOnlyFormulaCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 22,
+           "cells": [
+               {
+                   "value": "Tax",
+                   "address": "B23",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "920000",
+                   "address": "C23",
+                   "style": "InputNumberCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": true,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 23,
+           "cells": [
+               {
+                   "value": "Net Income",
+                   "address": "B24",
+                   "style": "SubHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "3,350,000.00",
+                   "address": "C24",
+                   "style": "ReadOnlyFormulaCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 24,
+           "cells": [
+               {
+                   "value": "",
+                   "address": "B25",
+                   "style": "EmptyCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "",
+                   "address": "C25",
+                   "style": "EmptyCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 25,
+           "cells": [
+               {
+                   "value": "Accounts",
+                   "address": "B26",
+                   "style": "HeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "Ratios",
+                   "address": "C26",
+                   "style": "HeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 26,
+           "cells": [
+               {
+                   "value": "Cost Plus",
+                   "address": "B27",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "268.27%",
+                   "address": "C27",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 27,
+           "cells": [
+               {
+                   "value": "Net Cost Plus",
+                   "address": "B28",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "23.89%",
+                   "address": "C28",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 28,
+           "cells": [
+               {
+                   "value": "Gross Margin",
+                   "address": "B29",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "75.41%",
+                   "address": "C29",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 29,
+           "cells": [
+               {
+                   "value": "Return on Sales (Operating Margin)",
+                   "address": "B30",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "18.11%",
+                   "address": "C30",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 30,
+           "cells": [
+               {
+                   "value": "Berry Ratio",
+                   "address": "B31",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "118.22%",
+                   "address": "C31",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 31,
+           "cells": [
+               {
+                   "value": "ROA",
+                   "address": "B32",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "4.78%",
+                   "address": "C32",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 32,
+           "cells": [
+               {
+                   "value": "ROE",
+                   "address": "B33",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "5.66%",
+                   "address": "C33",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 33,
+           "cells": [
+               {
+                   "value": "Return on Capital Employed (ROCE)",
+                   "address": "B34",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "4.13%",
+                   "address": "C34",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 34,
+           "cells": [
+               {
+                   "value": "Effective Tax Rate % Revenues",
+                   "address": "B35",
+                   "style": "SubHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "0.00%",
+                   "address": "C35",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 35,
+           "cells": [
+               {
+                   "value": "",
+                   "address": "B36",
+                   "style": "EmptyCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "",
+                   "address": "C36",
+                   "style": "EmptyCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 36,
+           "cells": [
+               {
+                   "value": "Comparison Ratio of ROE",
+                   "address": "B37",
+                   "style": "HeaderCell",
+                   "options": null,
+                   "colSpan": 2,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 37,
+           "cells": [
+               {
+                   "value": "Actual",
+                   "address": "B38",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "5.66%",
+                   "address": "C38",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 38,
+           "cells": [
+               {
+                   "value": "Target",
+                   "address": "B39",
+                   "style": "DataHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "12.75%",
+                   "address": "C39",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       },
+       {
+           "row": 39,
+           "cells": [
+               {
+                   "value": "Difference",
+                   "address": "B40",
+                   "style": "SubHeaderCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               },
+               {
+                   "value": "-7.09%",
+                   "address": "C40",
+                   "style": "ReadOnlyPercentageCell",
+                   "options": null,
+                   "colSpan": 1,
+                   "isEdited": false,
+                   "displayText": null,
+                   "link": null
+               }
+           ]
+       }
+   ],
+   "worksheetName": null
+}
